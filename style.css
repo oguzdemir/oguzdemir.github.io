@@ -74,8 +74,10 @@ p	{
 }
 #links  img {
     border: solid 2px transparent;
-	border-radius : 50px;
-
+    border-radius : 50px;
+    height: 100px;
+    width: 100%;
+	
 }
 
 #hover {
